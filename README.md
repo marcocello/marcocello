@@ -29,17 +29,14 @@ Earlier in my career, I did research at the Polytechnic Institute of New York Un
 
 ## Connect
 
-<div style="display:flex;align-items:center;gap:0.8rem;flex-wrap:wrap;">
+<div style="display:flex;align-items:center;gap:1.8rem;flex-wrap:wrap;">
   <a href="https://www.meshifyapp.com" target="_blank" rel="noopener noreferrer">
     <img src="https://www.meshifyapp.com/assets/images/image01.png" alt="Centered Image" width="100" />
-  </a>
-  <a href="https://linkedin.com/in/marcocello" target="_blank" rel="noopener noreferrer">
+  </a><a href="https://linkedin.com/in/marcocello" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Centered Image" width="30" />
-  </a>
-  <a href="https://github.com/marcocello" target="_blank" rel="noopener noreferrer">
+  </a><a href="https://github.com/marcocello" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="Centered Image" width="50" />
-  </a>
-  <a href="Long_CV.pdf" target="_blank" rel="noopener noreferrer">
+  </a><a href="Long_CV.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Long_CV-DC3545?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Centered Image" width="50" />
   </a>
 </div>
