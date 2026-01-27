@@ -8,9 +8,9 @@
 ## Current Projects
 
 - 📨 **[Meshify](https://www.meshifyapp.com/)** — agentic inbox teammate that reduces follow‑up overhead and repetitive cognitive work.
-- 🧭 **DesignPilot** — product design copiloting for faster iteration and clearer decisions.
-- 💧 **RainDrop** — lightweight system for capturing, organizing, and resurfacing key insights.
-- 🤖 **AmplifyHumans** — human‑centered AI workflows that enhance decision‑making and execution.
+- 🧭 **[DesignPilot](https://www.designpilot.cc/)** — product design copiloting for faster iteration and clearer decisions.
+- 💧 **[reddrop](https://github.com/marcocello/reddrop)** — lightweight system for capturing, organizing, and resurfacing key insights.
+- 🤖 **[Amplify Humans](https://github.com/amplifyhumans/amplifyhumans)** — human‑centered AI workflows that enhance decision‑making and execution.
 
 ## About Me
 I’m Marco, and I am obsessed with how this wave of AI will change the way we collaborate with machines. I’m focused on moving from static assistants to persistent, continuously learning companions that understand, adapt, and evolve with users.
