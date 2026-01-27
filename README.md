@@ -28,8 +28,17 @@ Earlier in my career, I did research at the Polytechnic Institute of New York Un
 
 
 ## Connect
+<a href="https://www.meshifyapp.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.meshifyapp.com/assets/images/image01.png" 
+       alt="Centered Image" 
+       width="100">
+</a>
 
-[![Meshify](https://img.shields.io/badge/-Meshify-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.meshifyapp.com/)
-[![LinkedIn](https://img.shields.io/badge/-Marco_Cello-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcocello)
+<a href="https://linkedin.com/in/marcocello" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+       alt="Centered Image" 
+       width="50">
+</a>
+
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marcocello)
-[![Long%20CV](https://img.shields.io/badge/-Long_CV-DC3545?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://marcocello.github.io/assets/files/Long_CV.pdf)
+[![Long%20CV](https://img.shields.io/badge/-Long_CV-DC3545?style=flat-square&logo=adobeacrobatreader&logoColor=white)](Long_CV.pdf)

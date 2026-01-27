@@ -9,6 +9,7 @@
 # 3. Allow specific files and file extensions
 !.gitignore
 !*.md
+!*.pdf
 
 # 4. Block some directories and files
 *.git
