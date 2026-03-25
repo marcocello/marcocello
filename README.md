@@ -15,6 +15,7 @@
 - 🗓️ **[FindATime](https://www.findatime.site/)** — Drop in Google Calendar, Cal.com and Zcal.co booking links to instantly find the overlap between calendars in seconds.
 - 💧 **[reddrop](https://github.com/marcocello/reddrop)** — lightweight system for capturing, organizing, and resurfacing key insights.
 - 🤖 **[Amplify Humans](https://github.com/amplifyhumans/amplifyhumans)** — human‑centered AI workflows that enhance decision‑making and execution.
+- 🏋 **[Benchmarker](https://github.com/marcocello/benchmarker)** — simple yet powerful CLI tool for benchmarking LLMs and agentic workflows.
 
 ## About Me
 I’m Marco, and I am obsessed with how this wave of AI will change the way we collaborate with machines. I’m focused on moving from static assistants to persistent, continuously learning companions that understand, adapt, and evolve with users.
@@ -46,31 +47,3 @@ Earlier in my career, I did research at the Polytechnic Institute of New York Un
   <a href="Long_CV.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Long_CV-DC3545?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Centered Image" width="60" />
   </a>
-
-  #### 🔭 I'm mainly coding on
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-#### 🫙 Leveraging databases like
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-#### ☁️ And clouds
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-#### ⚡ But I have also worked with other technologies
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🌱 And I'm learning
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### 📫 Reach me on
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/camopy)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camopy/)
