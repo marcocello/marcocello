@@ -1,8 +1,11 @@
 # Hi, I'm Marco 👋
 
-📍 🤖 **Agentic AI builder** | 🚀 **Founder, Meshify**
+📍 🤖 **Building production-grade agentic AI systems** | 🚀 **Founder, Meshify**
 
-> Building persistent, continuously learning companions that understand, adapt, and evolve with users. I’m focused on making AI a reliable teammate that takes on repetitive cognitive work and follows up where humans can’t.
+> I design and ship AI agents that operate continuously, capturing context, executing workflows, and following up where humans can’t. My focus is turning LLMs from assistants into reliable teammates that handle real cognitive work.
+
+> Previously CTO and engineering leader, I’ve launched AI products in production, built and scaled distributed teams, and managed 24/7 infrastructure for Fortune 50 environments. Today, I work at the intersection of AI systems, product, and execution.
+
 
 
 ## Current Projects
@@ -33,11 +36,9 @@ Earlier in my career, I did research at the Polytechnic Institute of New York Un
 <a href="https://www.meshifyapp.com" target="_blank" rel="noopener noreferrer">
 <img src="https://www.meshifyapp.com/assets/images/image01.png" alt="Centered Image" width="100" />
 </a>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcocello/)
   
-  <a href="https://linkedin.com/in/marcocello" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Centered Image" width="30" />
-    
-  </a>  
 <a href="https://github.com/marcocello" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="Centered Image" width="70" />
   </a>
@@ -45,3 +46,31 @@ Earlier in my career, I did research at the Polytechnic Institute of New York Un
   <a href="Long_CV.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Long_CV-DC3545?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Centered Image" width="60" />
   </a>
+
+  #### 🔭 I'm mainly coding on
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+#### 🫙 Leveraging databases like
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### ☁️ And clouds
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+#### ⚡ But I have also worked with other technologies
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🌱 And I'm learning
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### 📫 Reach me on
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/camopy)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camopy/)
