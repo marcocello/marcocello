@@ -47,8 +47,8 @@ Earlier in my career, I did research at the Polytechnic Institute of New York Un
   
 <a href="https://github.com/marcocello" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="Centered Image" width="70" />
-  </a>
+</a>
   
-  <a href="Long_CV.pdf" target="_blank" rel="noopener noreferrer">
+<a href="Long_CV.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Long_CV-DC3545?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Centered Image" width="60" />
-  </a>
+</a>
