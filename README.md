@@ -10,7 +10,7 @@
 
 ## Current Projects
 
-📨 **[Followups](https://www.followups.run/)**: executive AI assistant for sales teams and sales leader that reduces follow‑up overhead and repetitive cognitive work.
+📨 **[Followups](https://www.followups.run/)**: executive assistant for sales teams and sales leader that reduces follow‑up overhead and repetitive cognitive work.
 
 🗓️ **[FindATime](https://www.findatime.site/)**: drop in your calendar and booking links to instantly find the overlap between calendars in seconds.
 
