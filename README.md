@@ -10,12 +10,17 @@
 
 ## Current Projects
 
-- 📨 **[Followups](https://www.followups.run/)** — executive AI assistant for revenue teams and sales leader that reduces follow‑up overhead and repetitive cognitive work.
-- 🗓️ **[FindATime](https://www.findatime.site/)** — Drop in Google Calendar, Cal.com and Zcal.co booking links to instantly find the overlap between calendars in seconds.
-- 💧 **[reddrop](https://github.com/marcocello/reddrop)** — lightweight system for capturing, organizing, and resurfacing key insights.
-- 🤖 **[Amplify Humans](https://github.com/amplifyhumans/amplifyhumans)** — human‑centered AI workflows that enhance decision‑making and execution.
-- 🏋 **[Benchmarker](https://github.com/marcocello/benchmarker)** — simple yet powerful CLI tool for benchmarking LLMs and agentic workflows.
-- 🧭 **[DesignPilot](https://www.designpilot.cc/)** — product design copiloting for faster iteration and clearer decisions.
+📨 **[Followups](https://www.followups.run/)** — executive AI assistant for revenue teams and sales leader that reduces follow‑up overhead and repetitive cognitive work.
+
+🗓️ **[FindATime](https://www.findatime.site/)** — Drop in Google Calendar, Cal.com and Zcal.co booking links to instantly find the overlap between calendars in seconds.
+
+💧 **[reddrop](https://github.com/marcocello/reddrop)** — lightweight system for capturing, organizing, and resurfacing key insights.
+
+🤖 **[Amplify Humans](https://github.com/amplifyhumans/amplifyhumans)** — human‑centered AI workflows that enhance decision‑making and execution.
+
+🏋 **[Benchmarker](https://github.com/marcocello/benchmarker)** — simple yet powerful CLI tool for benchmarking LLMs and agentic workflows.
+
+🧭 **[DesignPilot](https://www.designpilot.cc/)** — product design copiloting for faster iteration and clearer decisions.
 
 ## About Me
 I’m Marco, and I am obsessed with how this wave of AI will change the way we collaborate with machines. I’m focused on moving from static assistants to persistent, continuously learning companions that understand, adapt, and evolve with users.
