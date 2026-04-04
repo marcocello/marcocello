@@ -1,6 +1,6 @@
 # Hi, I'm Marco 👋
 
-📍 🤖 **Building production-grade agentic AI systems** | 🚀 **Founder, Meshify**
+📍 🤖 **Building production-grade agentic AI systems** | 🚀 **Founder, Followups**
 
 > I design and ship AI agents that operate continuously, capturing context, executing workflows, and following up where humans can’t. My focus is turning LLMs from assistants into reliable teammates that handle real cognitive work.
 
@@ -10,7 +10,7 @@
 
 ## Current Projects
 
-- 📨 **[Meshify](https://www.meshifyapp.com/)** — executive AI assistant for revenue teams and sales leader that reduces follow‑up overhead and repetitive cognitive work.
+- 📨 **[Followups](https://www.followups.run/)** — executive AI assistant for revenue teams and sales leader that reduces follow‑up overhead and repetitive cognitive work.
 - 🧭 **[DesignPilot](https://www.designpilot.cc/)** — product design copiloting for faster iteration and clearer decisions.
 - 🗓️ **[FindATime](https://www.findatime.site/)** — Drop in Google Calendar, Cal.com and Zcal.co booking links to instantly find the overlap between calendars in seconds.
 - 💧 **[reddrop](https://github.com/marcocello/reddrop)** — lightweight system for capturing, organizing, and resurfacing key insights.
@@ -20,7 +20,7 @@
 ## About Me
 I’m Marco, and I am obsessed with how this wave of AI will change the way we collaborate with machines. I’m focused on moving from static assistants to persistent, continuously learning companions that understand, adapt, and evolve with users.
 
-I’m building Meshify to make that vision real: an inbox‑native agent that takes on repetitive cognitive work, follows up where you can’t, and keeps teams moving with clarity. I’ve led engineering at Webidoo, scaled remote‑first teams, and rebuilt SaaS platforms. At Rulex I ran 24/7 infrastructure for a Fortune 50 supply‑chain customer, and as CTO at Pregmune I built the stack for a digital‑twin analytics platform in reproductive medicine.
+I’m building Followups to make that vision real: an inbox‑native agent that takes on repetitive cognitive work, follows up where you can’t, and keeps teams moving with clarity. I’ve led engineering at Webidoo, scaled remote‑first teams, and rebuilt SaaS platforms. At Rulex I ran 24/7 infrastructure for a Fortune 50 supply‑chain customer, and as CTO at Pregmune I built the stack for a digital‑twin analytics platform in reproductive medicine.
 
 Earlier in my career, I did research at the Polytechnic Institute of New York University (now NYU) and Nokia Bell Labs, publishing 40+ peer‑reviewed papers on distributed networking systems, SDN control architectures, satellite/DTN networks, and cloud infrastructure.
 
@@ -34,8 +34,8 @@ Earlier in my career, I did research at the Polytechnic Institute of New York Un
 
 ## Connect
 
-<a href="https://www.meshifyapp.com" target="_blank" rel="noopener noreferrer">
-<img src="https://www.meshifyapp.com/assets/images/image01.png" alt="Centered Image" width="100" />
+<a href="https://www.followups.run" target="_blank" rel="noopener noreferrer">
+<img src="https://www.followups.run/logo-full.png" alt="Centered Image" width="100" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcocello/)
