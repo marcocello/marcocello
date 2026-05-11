@@ -12,6 +12,8 @@
 
 📨 **[Followups](https://www.followups.run/)**: executive assistant for sales teams and sales leader that reduces follow‑up overhead and repetitive cognitive work.
 
+🧗‍♂️ **[Dot-Codex](https://www.github.com/marcocello/dot-codex)**: Make Codex predictable for feature-driven work. Harnessing Engineering.
+
 🗓️ **[FindATime](https://www.findatime.site/)**: drop in your calendar and booking links to instantly find the overlap between calendars in seconds.
 
 💧 **[reddrop](https://github.com/marcocello/reddrop)**: lightweight system for capturing, organizing, and resurfacing key insights.
