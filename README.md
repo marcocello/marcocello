@@ -16,6 +16,8 @@
 
 ☁️ **[Codex-on-VM](https://www.github.com/marcocello/codex-on-vm)**: Run Codex on an always-available VM in Azure and control it from the Codex app on your Mac.
 
+📚 **[skill-registry](https://github.com/marcocello/skill-registry)**: Skill Registry is a self-hosted catalogue where teams can publish, discover, version, and install skills for their agents.
+
 🗓️ **[FindATime](https://www.findatime.site/)**: drop in your calendar and booking links to instantly find the overlap between calendars in seconds.
 
 💧 **[reddrop](https://github.com/marcocello/reddrop)**: lightweight system for capturing, organizing, and resurfacing key insights.
