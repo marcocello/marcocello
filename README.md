@@ -6,7 +6,21 @@
 
 > Previously CTO and engineering leader, I’ve launched AI products in production, built and scaled distributed teams, and managed 24/7 infrastructure for Fortune 50 environments. Today, I work at the intersection of AI systems, product, and execution.
 
+**What I think about software work, and how I work**
 
+- **Much of my professional software work is now plumbing.** There are so many good libraries, products, and open-source solutions already. Does the world/customer need my N+1 agentic platform? Much of my work involves sitting with the customer, understanding how things actually happen, and making existing pieces work together. The hard part is often everything between a working demo and something a business can use every day. That is where I increasingly see my role as a mix of consultant and plumber.
+
+- **My current role is probably temporary too.** Coding agents already investigate the problem with me, question assumptions, and help decide what to build. I still bring more of the broader context: the business problem, domain knowledge, and a view of the architecture as a whole. But this is not the final division of work. “Humans will always make the important decisions” feels too convenient. What I contribute today is not necessarily what I will contribute in six months.
+
+- **Use the best models available.** Too much time goes into working around limitations that better models have already solved. Before investing in a workaround, check whether the limitation still exists.
+
+- **Autonomy means finishing the work.** I have had features with passing tests that failed as soon as I tried them. Much of my effort on the harness goes into getting agents to own completion: understand the intended outcome, implement it, run the actual system, follow the whole journey, and fix what fails. The harness should keep that loop going until the result is usable, with evidence of what works and a clear account of what remains blocked. My first attempt to use it should not be the missing test.
+
+- **Write for agents.** We used to use coding agents with the assumption that a human would review and maintain their output. This no longer holds. How do we instruct coding agents to write “good code” for other agents? Are software best practices still valid for LLMs? Which practices help under these conditions, and which do we carry forward by habit?
+
+- **Obsolescence is a bad reason to stop building.** I feel my brain getting lazy as I delegate more to AI. If I stop experimenting because “OpenAI will build this in three months,” what do I have left? Curiosity and the desire to build things brought me here. Losing that scares me more than building something that becomes obsolete in six months.
+
+- **How does a junior become senior now?** We direct agents using judgment we developed by doing the work we now delegate: writing code, debugging, making mistakes, and living with the consequences. That leaves a question for people starting today. If agents do more of that work, where do juniors get the experience to judge them? Reviewing an answer is hard when you have never struggled with the problem yourself. What work will build that judgment? What still needs to be learned firsthand? And what will “senior” mean?
 
 ## Current Projects
 
