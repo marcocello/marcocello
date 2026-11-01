@@ -6,7 +6,7 @@
 
 > Previously CTO and engineering leader, I’ve launched AI products in production, built and scaled distributed teams, and managed 24/7 infrastructure for Fortune 50 environments. Today, I work at the intersection of AI systems, product, and execution.
 
-**What I think about software work, and how I work**
+## What I think about software work, and how I work
 
 Much of my professional software work is now plumbing. There are so many good libraries, products, and open-source solutions already. Does the world/customer need my N+1 agentic platform? Much of my work involves sitting with the customer, understanding how things actually happen, and making existing pieces work together. The hard part is often everything between a working demo and something a business can use every day. That is where I increasingly see my role as a mix of consultant and plumber.
 
