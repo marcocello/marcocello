@@ -1,6 +1,7 @@
 # Hi, I'm Marco 👋
 
-📍 🤖 **Building production-grade agentic AI systems** | 🚀 **Founder, Followups**
+📍 🤖 **building the harness while the agents build everything else**
+
 
 > I design and ship AI agents that operate continuously, capturing context, executing workflows, and following up where humans can’t. My focus is turning LLMs from assistants into reliable teammates that handle real cognitive work.
 
